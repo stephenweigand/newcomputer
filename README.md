@@ -42,4 +42,6 @@ administrator priviledges. If so this can be done through the Dock
 (you can type "Dock" in the search bar) and then 
 
 - Click on the person in front of a folder icon
-- Click Computer and Printer Settings
+- Click Computer and Printer Settings and wait a while
+- Click on Computer Privileges
+- Click on Elevate My User Account
