@@ -45,3 +45,4 @@ administrator priviledges. If so this can be done through the Dock
 - Click Computer and Printer Settings and wait a while
 - Click on Computer Privileges
 - Click on Elevate My User Account
+
