@@ -63,11 +63,13 @@ set of programs.
 
 ```
 PS> scoop help # This gives you more info on the commands below
-PS> scoop update # 
-PS> scoop install fossil # Fossil is used for version control
-PS> scoop install geany  # A simple code editor
-PS> scoop install r      # We need R ...
-PS> scoop install python # ... and Python
+PS> scoop update            # Updates scoop itself
+PS> scoop install fossil    # Fossil is used for version control
+PS> scoop install r         # We need R ...
+PS> scoop install python    # ... and Python
+PS> scoop bucket add extras # The "extras" bucket is needed for Geany,
+PS> scoop install geany     # a simple code editor. Or try 'kate' or 'gedit'
+
 ```
 
 
