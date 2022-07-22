@@ -15,7 +15,7 @@ to see two terminal sessions at once.
 
 Depending on your version of Windows it may already be installed. If
 not it can be installed via the Microsoft Store.  Type "Microsoft
-Store" in the search bar, to opent he Microsoft Store app on your
+Store" in the search bar, to open the Microsoft Store app on your
 computer and then search for "Windows Terminal".
 
 ## Install Scoop
